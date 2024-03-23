@@ -1,7 +1,9 @@
-export default function App() {
+export default function App () {
   return (
     <>
-      <h1>tu vieja</h1>
+      <main>
+        <h1>Segunda Version Ta Te Ti</h1>
+      </main>
     </>
-  );
+  )
 }
